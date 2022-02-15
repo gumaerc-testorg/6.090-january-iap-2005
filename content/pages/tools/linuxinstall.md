@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: a361770f-74a5-81b1-25d8-23a9a1c629b2
 title: 6.001 Scheme Installation for Linux
 uid: 5a6920c9-5d40-e8fe-384e-81bc870d579b

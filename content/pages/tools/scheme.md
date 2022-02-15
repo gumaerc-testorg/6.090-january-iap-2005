@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: a361770f-74a5-81b1-25d8-23a9a1c629b2
 title: Guide to MIT Scheme
 uid: cd21f7d8-4cd4-ffef-0618-14a1f4ac3e8e

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: These notes outline the scheme of the lecture and provide study problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/104a59eb487052b1cd504c1672bbe913_lec3.pdf
+file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/104a59eb487052b1cd504c1672bbe913_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec3.pdf
 uid: 104a59eb-4870-52b1-cd50-4c1672bbe913

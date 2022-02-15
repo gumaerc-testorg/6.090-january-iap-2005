@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Student notes from Lecture 6. This lecture covered the following topics:
   Scheme, and higher order procedures.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/6a9b6d7a97e790ed4dc5a4e01e1e061e_class6.pdf
+file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/6a9b6d7a97e790ed4dc5a4e01e1e061e_class6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class6.pdf
 uid: 6a9b6d7a-97e7-90ed-4dc5-a4e01e1e061e

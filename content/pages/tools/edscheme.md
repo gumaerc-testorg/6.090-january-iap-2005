@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: a361770f-74a5-81b1-25d8-23a9a1c629b2
 title: A Note About EdScheme
 uid: 3d70dad1-99e1-5f0b-5081-53934b532a6b
