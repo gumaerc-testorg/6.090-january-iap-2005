@@ -12,4 +12,4 @@ Online version of book used in [6.001](/courses/6-001-structure-and-interpretati
 
 Online version of another Scheme textbook: [How to Design Programs](http://www.htdp.org/)
 
-The Edwin Cheat Sheet ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/related-resources/edwin.txt))
+The Edwin Cheat Sheet ([TXT]({{< baseurl >}}/resources/edwin-1))

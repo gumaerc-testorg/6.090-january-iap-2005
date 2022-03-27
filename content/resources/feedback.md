@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Pedagogy
 parent_type: CourseSection
+parent_uid: 4665243e-c831-c68a-ca9c-3e47b5f3a176
 resourcetype: Document
 title: feedback.pdf
 uid: 1baa97ba-82fa-acf6-74b9-3680e9daa71d

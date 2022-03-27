@@ -30,7 +30,7 @@ SUPPORTING FILES
 Homework 1 ([PDF]({{< baseurl >}}/resources/hw1))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 1 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw1solns.txt))
+Solutions 1 ([TXT]({{< baseurl >}}/resources/hw1solns))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -42,7 +42,7 @@ Solutions 1 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 Homework 2 ([PDF]({{< baseurl >}}/resources/hw2))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 2 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw2solns.txt))
+Solutions 2 ([TXT]({{< baseurl >}}/resources/hw2solns))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -54,7 +54,7 @@ Solutions 2 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 Homework 3 ([PDF]({{< baseurl >}}/resources/hw3))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 3 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw3solns.txt))
+Solutions 3 ([TXT]({{< baseurl >}}/resources/hw3solns))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -66,7 +66,7 @@ Solutions 3 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 Homework 4 ([PDF]({{< baseurl >}}/resources/hw4))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 4 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw4solns.txt))
+Solutions 4 ([TXT]({{< baseurl >}}/resources/hw4solns))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -78,7 +78,7 @@ Solutions 4 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 Homework 5 ([PDF]({{< baseurl >}}/resources/hw5))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 5 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw5solns.txt))
+Solutions 5 ([TXT]({{< baseurl >}}/resources/hw5solns))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -90,12 +90,12 @@ Solutions 5 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 Homework 6 ([PDF]({{< baseurl >}}/resources/hw6))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 6 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw6solns.txt))  
+Solutions 6 ([TXT]({{< baseurl >}}/resources/hw6solns))  
   
-nimrod-solns.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/nimrodsolns.scm))
+nimrod-solns.scm ([SCM]({{< baseurl >}}/resources/nimrodsolns))
 {{< tdclose >}}
 {{< tdopen >}}
-nimrod.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/nimrod.scm))
+nimrod.scm ([SCM]({{< baseurl >}}/resources/nimrod-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,10 +104,10 @@ nimrod.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-bui
 Homework 7 ([PDF]({{< baseurl >}}/resources/hw7))
 {{< tdclose >}}
 {{< tdopen >}}
-hw7solns.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw7solns.scm))
+hw7solns.scm ([SCM]({{< baseurl >}}/resources/hw7solns))
 {{< tdclose >}}
 {{< tdopen >}}
-hw7code.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw7code.scm))
+hw7code.scm ([SCM]({{< baseurl >}}/resources/hw7code))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,10 +116,10 @@ hw7code.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-bu
 Homework 8 ([PDF]({{< baseurl >}}/resources/hw8))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 8 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/hw8solns.txt))
+Solutions 8 ([TXT]({{< baseurl >}}/resources/hw8solns))
 {{< tdclose >}}
 {{< tdopen >}}
-advgame.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/assignments/advgame.scm))
+advgame.scm ([SCM]({{< baseurl >}}/resources/advgame))
 {{< tdclose >}}
 
 {{< trclose >}}

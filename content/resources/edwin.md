@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 9f0ac8e6-d82e-dc24-7d52-e53bb226fcac
 resourcetype: Document
 title: edwin.pdf
 uid: 144f9ddc-3129-1959-de1a-1bab4c800c03

@@ -1,14 +1,15 @@
 ---
 content_type: resource
-description: These notes outline the scheme of the lecture and provide study problems.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/43f0878cfb4e102a5bb4f50f38f69e81_lec8.pdf
-file_type: application/pdf
+description: This is a supporting file for lecture 8.
+file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/b60e6c97dc4e307b4ef6017a56fe10b6_lec8.scm
+file_type: text/plain
 learning_resource_types:
 - Lecture Notes
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
-resourcetype: Document
-title: lec8.pdf
-uid: 43f0878c-fb4e-102a-5bb4-f50f38f69e81
+parent_uid: d54943fa-5187-a805-d568-509751968066
+resourcetype: Other
+title: lec8.scm
+uid: b60e6c97-dc4e-307b-4ef6-017a56fe10b6
 ---

@@ -13,7 +13,7 @@ Pedagogy
 
 Course Proposal ([PDF]({{< baseurl >}}/resources/proposal))
 
-Class Mechanics ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/classmech.txt))
+Class Mechanics ([TXT]({{< baseurl >}}/resources/classmech))
 
 Feedback Form ([PDF]({{< baseurl >}}/resources/feedback))
 
@@ -38,7 +38,7 @@ LOGISTICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture1.txt))
+([TXT]({{< baseurl >}}/resources/lecture1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ LOGISTICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture2.txt))
+([TXT]({{< baseurl >}}/resources/lecture2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ LOGISTICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture3.txt))
+([TXT]({{< baseurl >}}/resources/lecture3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ LOGISTICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture4.txt))
+([TXT]({{< baseurl >}}/resources/lecture4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ LOGISTICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture5.txt))
+([TXT]({{< baseurl >}}/resources/lecture5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ LOGISTICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture6.txt))
+([TXT]({{< baseurl >}}/resources/lecture6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ LOGISTICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture7.txt))
+([TXT]({{< baseurl >}}/resources/lecture7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ LOGISTICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture8.txt))
+([TXT]({{< baseurl >}}/resources/lecture8))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +110,7 @@ LOGISTICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/course-pedagogy/lecture9.txt))
+([TXT]({{< baseurl >}}/resources/lecture9))
 {{< tdclose >}}
 
 {{< trclose >}}

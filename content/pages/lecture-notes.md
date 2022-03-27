@@ -7,7 +7,7 @@ title: Lecture Notes
 uid: d54943fa-5187-a805-d568-509751968066
 ---
 
-6001mac ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/6001mac.tex)) contains macros that produce the look-and-feel of the handouts.
+6001mac ([TEX]({{< baseurl >}}/resources/6001mac)) contains macros that produce the look-and-feel of the handouts.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -36,7 +36,7 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and Basic Scheme ([PDF]({{< baseurl >}}/resources/lec1)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec1.tex))
+Introduction and Basic Scheme ([PDF]({{< baseurl >}}/resources/lec1)) ([TEX]({{< baseurl >}}/resources/lec1-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 1 ([PDF]({{< baseurl >}}/resources/class1))
@@ -45,7 +45,7 @@ Student Notes 1 ([PDF]({{< baseurl >}}/resources/class1))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 1 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec1solns.txt))
+Solutions 1 ([TXT]({{< baseurl >}}/resources/lec1solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Solutions 1 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Procedures and Recursion ([PDF]({{< baseurl >}}/resources/lec2)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec2.tex))
+Procedures and Recursion ([PDF]({{< baseurl >}}/resources/lec2-1)) ([TEX]({{< baseurl >}}/resources/lec2))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 2 ([PDF]({{< baseurl >}}/resources/class2))
@@ -63,7 +63,7 @@ Student Notes 2 ([PDF]({{< baseurl >}}/resources/class2))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 2 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec2solns.txt))
+Solutions 2 ([TXT]({{< baseurl >}}/resources/lec2solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,16 +72,16 @@ Solutions 2 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 3
 {{< tdclose >}}
 {{< tdopen >}}
-More Procedures ([PDF]({{< baseurl >}}/resources/lec3)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec3.tex))
+More Procedures ([PDF]({{< baseurl >}}/resources/lec3)) ([TEX]({{< baseurl >}}/resources/lec3-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 3 ([PDF]({{< baseurl >}}/resources/class3))
 {{< tdclose >}}
 {{< tdopen >}}
-Code to load, lec3 ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec3.scm))
+Code to load, lec3 ([SCM]({{< baseurl >}}/resources/lec3-2))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 3 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec3solns.txt))
+Solutions 3 ([TXT]({{< baseurl >}}/resources/lec3solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Solutions 3 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Sugar, Recursive/Iterative, Basic Lists ([PDF]({{< baseurl >}}/resources/lec4)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec4.tex))
+Sugar, Recursive/Iterative, Basic Lists ([PDF]({{< baseurl >}}/resources/lec4)) ([TEX]({{< baseurl >}}/resources/lec4-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 4 ([PDF]({{< baseurl >}}/resources/class4))
@@ -99,7 +99,7 @@ Student Notes 4 ([PDF]({{< baseurl >}}/resources/class4))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 4 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec4solns.txt))
+Solutions 4 ([TXT]({{< baseurl >}}/resources/lec4solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Solutions 4 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 5
 {{< tdclose >}}
 {{< tdopen >}}
-List Procedures, Data Abstraction ([PDF]({{< baseurl >}}/resources/lec5)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec5.tex))
+List Procedures, Data Abstraction ([PDF]({{< baseurl >}}/resources/lec5)) ([TEX]({{< baseurl >}}/resources/lec5-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 5 ([PDF]({{< baseurl >}}/resources/class5))
@@ -117,7 +117,7 @@ Student Notes 5 ([PDF]({{< baseurl >}}/resources/class5))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 5 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec5solns.txt))
+Solutions 5 ([TXT]({{< baseurl >}}/resources/lec5solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Solutions 5 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Higher Order Procedures, Types, Nimrod ([PDF]({{< baseurl >}}/resources/lec6)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec6.tex))
+Higher Order Procedures, Types, Nimrod ([PDF]({{< baseurl >}}/resources/lec6-1)) ([TEX]({{< baseurl >}}/resources/lec6))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 6 ([PDF]({{< baseurl >}}/resources/class6))
@@ -135,7 +135,7 @@ Student Notes 6 ([PDF]({{< baseurl >}}/resources/class6))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 6 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec6solns.txt))
+Solutions 6 ([TXT]({{< baseurl >}}/resources/lec6solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Student Notes 7 ([PDF]({{< baseurl >}}/resources/class7))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 7 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec7solns.txt))
+Solutions 7 ([TXT]({{< baseurl >}}/resources/lec7solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,18 +162,18 @@ Solutions 7 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-bu
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Tags, Association Lists, Trees ([PDF]({{< baseurl >}}/resources/lec8)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec8.tex))
+Tags, Association Lists, Trees ([PDF]({{< baseurl >}}/resources/lec8-1)) ([TEX]({{< baseurl >}}/resources/lec8-2))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 8 ([PDF]({{< baseurl >}}/resources/class8))
 {{< tdclose >}}
 {{< tdopen >}}
-Code to load, lec8 ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec8.scm))
+Code to load, lec8 ([SCM]({{< baseurl >}}/resources/lec8))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions 8 ([TXT](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec8solns.txt))  
+Solutions 8 ([TXT]({{< baseurl >}}/resources/lec8solns-1))  
   
-lec8solns.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec8solns.scm))
+lec8solns.scm ([SCM]({{< baseurl >}}/resources/lec8solns))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,13 +182,13 @@ lec8solns.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-090-
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Henderson Picture Language ([PDF]({{< baseurl >}}/resources/lec9-1)) ([TEX](/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/lecture-notes/lec9.tex))
+Henderson Picture Language ([PDF]({{< baseurl >}}/resources/lec9-2)) ([TEX]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
 {{< tdopen >}}
 Student Notes 9 ([PDF]({{< baseurl >}}/resources/class9))
 {{< tdclose >}}
 {{< tdopen >}}
-Code to load, lec9 ([ZIP]({{< baseurl >}}/resources/lec9)) (The ZIP contains: 5 .scm files, and 25 .pgm files.)
+Code to load, lec9 ([ZIP]({{< baseurl >}}/resources/lec9-1)) (The ZIP contains: 5 .scm files, and 25 .pgm files.)
 {{< tdclose >}}
 {{< tdopen >}}
  
