@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file containing code for homework 7.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/af6fecee8049ffae6e56d9c3e113339b_hw7code.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/af6fecee8049ffae6e56d9c3e113339b_hw7code.scm
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: hw7code.scm
 uid: af6fecee-8049-ffae-6e56-d9c3e113339b
 ---
+This is a supporting file containing code for homework 7.
+

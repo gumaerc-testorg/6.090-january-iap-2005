@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 6.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/e02b44defb459f87d8dda12b1cd1300c_nimrod.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/e02b44defb459f87d8dda12b1cd1300c_nimrod.scm
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: nimrod.scm
 uid: e02b44de-fb45-9f87-d8dd-a12b1cd1300c
 ---
+This is a supporting file for lecture 6.
+

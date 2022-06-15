@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions for the problems of homework 7.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/879fd479be9e6d66fe8bf861d722fd7d_hw7solns.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/879fd479be9e6d66fe8bf861d722fd7d_hw7solns.scm
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: hw7solns.scm
 uid: 879fd479-be9e-6d66-fe8b-f861d722fd7d
 ---
+This file contains solutions for the problems of homework 7.
+

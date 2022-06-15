@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides information about the subject meetings, course
+  objectives, syllabus, grading, collaboration, and the laboratory used for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 8677c181-aa1f-4d05-c380-7a49cf5cea96
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

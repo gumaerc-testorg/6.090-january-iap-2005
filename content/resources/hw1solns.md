@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions for the problems in homework 1.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/7a1973dd6794074958cfd3180e4ac2be_hw1solns.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/7a1973dd6794074958cfd3180e4ac2be_hw1solns.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: hw1solns.txt
 uid: 7a1973dd-6794-0749-58cf-d3180e4ac2be
 ---
+This file contains solutions for the problems in homework 1.
+

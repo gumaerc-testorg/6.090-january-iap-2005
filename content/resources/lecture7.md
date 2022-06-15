@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/57c332f15168a82ed69e9f82343a5bd7_lecture7.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/57c332f15168a82ed69e9f82343a5bd7_lecture7.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile

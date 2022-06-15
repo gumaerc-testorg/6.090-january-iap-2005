@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes solutions for the problems included in lecture 4.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/bba7ce8ea10036d6c85dc0247e12842a_lec4solns.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/bba7ce8ea10036d6c85dc0247e12842a_lec4solns.txt
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: lec4solns.txt
 uid: bba7ce8e-a100-36d6-c85d-c0247e12842a
 ---
+This file includes solutions for the problems included in lecture 4.
+

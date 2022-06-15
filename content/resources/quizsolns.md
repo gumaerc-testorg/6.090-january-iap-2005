@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes the answers for quiz 1.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/63d0fcf536436ff121fe4e24666de715_quizsolns.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/63d0fcf536436ff121fe4e24666de715_quizsolns.txt
 file_type: text/plain
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Other
 title: quizsolns.txt
 uid: 63d0fcf5-3643-6ff1-21fe-4e24666de715
 ---
+This file includes the answers for quiz 1.
+

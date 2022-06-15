@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains answers to the problems in the practice quiz.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/8c0f6e89bf845307f78044e01db865da_quizpracticeanswers.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/8c0f6e89bf845307f78044e01db865da_quizpracticeanswers.txt
 file_type: text/plain
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Other
 title: quizpracticeanswers.txt
 uid: 8c0f6e89-bf84-5307-f780-44e01db865da
 ---
+This file contains answers to the problems in the practice quiz.
+

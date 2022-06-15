@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section lists the topics for 9 lectures of the course along with
+  the key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: a3d20917-df4d-f8d2-5fc0-955e4d3789f4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

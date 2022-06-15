@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 3.
-file: /media/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/d517de88b4f051680399b66c6881a3c3_lec3.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/d517de88b4f051680399b66c6881a3c3_lec3.scm
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: lec3.scm
 uid: d517de88-b4f0-5168-0399-b66c6881a3c3
 ---
+This is a supporting file for lecture 3.
+
