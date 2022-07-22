@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: a361770f-74a5-81b1-25d8-23a9a1c629b2
 title: A Note About DrScheme
 uid: 05f349d5-b4fc-8099-c797-885d2f882d3f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 [DrScheme](http://www.plt-scheme.org/software/drscheme/) is The [Rice University Programming Languages Team](http://www.cs.rice.edu/CS/PLT/)'s graphical user interface to a Scheme system for students. A quick examination of the latest version was encouraging. And DrScheme is _free_.

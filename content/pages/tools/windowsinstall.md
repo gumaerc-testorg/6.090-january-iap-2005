@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: a361770f-74a5-81b1-25d8-23a9a1c629b2
 title: 6.001 Scheme for Windows machines
 uid: 3dcbc98e-4286-cea6-4943-f2604aac010d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< anchor "WinNT" >}}Installation on Windows NT{{< /anchor >}}, {{< anchor "Win95" >}}Windows 95{{< /anchor >}}, {{< anchor "Win00" >}}Windows 2000{{< /anchor >}}, {{< anchor "WinXP" >}}Windows XP{{< /anchor >}}

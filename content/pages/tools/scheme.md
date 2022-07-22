@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: a361770f-74a5-81b1-25d8-23a9a1c629b2
 title: Guide to MIT Scheme
 uid: cd21f7d8-4cd4-ffef-0618-14a1f4ac3e8e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Supported Options
@@ -11,8 +20,8 @@ Supported Options
 
 The following systems are supported for 6.001 and 6.090:
 
-*   [Linux]({{< baseurl >}}/pages/tools/linuxinstall)
-*   [Windows 95, Windows NT 4.0, Windows 2000, and Windows XP]({{< baseurl >}}/pages/tools/windowsinstall)
+*   {{% resource_link 5a6920c9-5d40-e8fe-384e-81bc870d579b "Linux" %}}
+*   {{% resource_link 3dcbc98e-4286-cea6-4943-f2604aac010d "Windows 95, Windows NT 4.0, Windows 2000, and Windows XP" %}}
 
 All these implementations (including editor, debugger, etc.) are virtually identical. Feel free to do assignments partially in the 6.001 Lab, where you can work with the Lab Assistants, and partially on your own machine. You can also save your work in progress on a floppy disk or in an Athena locker, come to the 6.001 lab, and get help from the lab assistants based on your work.
 
@@ -27,8 +36,8 @@ Unsupported Options
 
 There are several other versions of Scheme available, either for free or for a small fee:
 
-*   [EdScheme]({{< baseurl >}}/pages/tools/edscheme) from [Schemers, Inc.](http://www.schemers.com/)
-*   [DrScheme]({{< baseurl >}}/pages/tools/drscheme) from [Rice University](http://www.rice.edu/).
+*   {{% resource_link 3d70dad1-99e1-5f0b-5081-53934b532a6b "EdScheme" %}} from [Schemers, Inc.](http://www.schemers.com/)
+*   {{% resource_link 05f349d5-b4fc-8099-c797-885d2f882d3f "DrScheme" %}} from [Rice University](http://www.rice.edu/).
 *   Any Scheme system you find on the Mac.
 *   Any Scheme system you find on Windows 3.1.
 *   Any Scheme system you find on Windows 98 or Windows ME.
