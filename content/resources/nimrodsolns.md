@@ -5,6 +5,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nimrodsolns.scm
 uid: 03bfb65c-eba6-d72e-2cae-0e1b51473f57
 ---
 This file contains solutions for homework 6.
-

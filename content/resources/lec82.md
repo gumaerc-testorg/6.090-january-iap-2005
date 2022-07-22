@@ -5,6 +5,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec8.scm
 uid: b60e6c97-dc4e-307b-4ef6-017a56fe10b6
 ---
 This is a supporting file for lecture 8.
-

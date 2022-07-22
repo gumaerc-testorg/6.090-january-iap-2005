@@ -6,6 +6,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: advgame.scm
 uid: c98a1eed-c4ad-c7d8-f0e3-9f5604be9d9a
 ---
 This is a supporting file for homework 8 containing code of the game "Munchkin MIT".
-

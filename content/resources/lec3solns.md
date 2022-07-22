@@ -5,6 +5,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec3solns.txt
 uid: c6ba2b60-4c50-746b-3304-d7aab2546a28
 ---
 This file includes solutions for problems included in lecture 3.
-

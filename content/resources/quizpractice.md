@@ -7,6 +7,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 4245f8bf-ae41-72d4-308f-ffcfd9c394d3
 ---
 This file includes practice problems for the following topics:
 Evaluation, recursive procedures, and box and pointer.
-

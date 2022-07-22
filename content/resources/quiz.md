@@ -7,6 +7,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 This file includes problems for the following topics:
 Box and pointer, insert, and iteration and recursion.
-

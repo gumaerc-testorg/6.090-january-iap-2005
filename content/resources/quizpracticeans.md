@@ -5,6 +5,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quizpracticeans.txt
 uid: 78a1981d-bd7f-ef7e-c6a3-85c7ecfa895f
 ---
 This file contains answers to the problems in the practice quiz.
-

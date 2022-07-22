@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/830529106d3a8c75879fbcef695b1b96_lecture9.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Pedagogy
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec8.tex
 uid: 86e6ecd7-0943-e1b5-eb10-1f00242136db
 ---
 This TEX file contains macros that produce the look-and-feel of the lecture handouts.
-
