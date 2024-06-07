@@ -2,6 +2,7 @@
 content_type: resource
 description: These notes outline the scheme of the lecture and provide study problems.
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/a6f44b4e8bf0ff221ca8a88e39d7d75d_lec1.pdf
+file_size: 88535
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

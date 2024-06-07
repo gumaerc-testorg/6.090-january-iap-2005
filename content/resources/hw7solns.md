@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains solutions for the problems of homework 7.
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/879fd479be9e6d66fe8bf861d722fd7d_hw7solns.scm
+file_size: 880
 file_type: text/plain
 learning_resource_types:
 - Assignments
