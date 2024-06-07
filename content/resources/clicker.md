@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/10bcab38c03b6c1bfe4a092e3a92024c_clicker.zip
+file_size: 1251112
 file_type: application/zip
 learning_resource_types:
 - Tools

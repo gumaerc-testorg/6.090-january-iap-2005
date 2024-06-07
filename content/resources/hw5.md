@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/5b43b0a0390b4fc25604371e16161be9_hw5.pdf
+file_size: 10308
 file_type: application/pdf
 learning_resource_types:
 - Assignments
