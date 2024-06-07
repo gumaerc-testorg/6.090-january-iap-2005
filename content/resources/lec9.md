@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a zip file containing 30 .scm files to support lecture 9.
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/51b04ff802fb0dc3b2e0253ec0ac599a_lec9.zip
+file_size: 201965
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes

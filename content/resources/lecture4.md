@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/d5dd9a1185e4d4e5961bd11189fc03ee_lecture4.txt
+file_size: 268
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
