@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains answers to the problems in the practice quiz.
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/78a1981dbd7fef7ec6a385c7ecfa895f_quizpracticeans.txt
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/78a1981dbd7fef7ec6a385c7ecfa895f_quizpracticeans.txt
 file_size: 773
 file_type: text/plain
 learning_resource_types:

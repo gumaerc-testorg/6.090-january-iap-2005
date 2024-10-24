@@ -3,7 +3,7 @@ content_type: resource
 description: 'Student notes from Lecture 9. This lecture covered the following topics:
   defining frames (using vectors) and creating images and manipulating (by flipping
   over, altering coordinates, etc.).'
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/7215b55530964f25928a8fed5cdecab1_class9.pdf
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/7215b55530964f25928a8fed5cdecab1_class9.pdf
 file_size: 33409
 file_type: application/pdf
 learning_resource_types:
