@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes question to ask for the feedback of the students of
   this course.
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/1baa97ba82faacf674b93680e9daa71d_feedback.pdf
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/1baa97ba82faacf674b93680e9daa71d_feedback.pdf
 file_size: 45286
 file_type: application/pdf
 learning_resource_types: []
