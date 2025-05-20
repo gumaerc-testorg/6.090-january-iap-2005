@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes the solutions for problem set 6.
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/a734cce5936d7b23371cc4db86b73808_lec6solns.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/a734cce5936d7b23371cc4db86b73808_lec6solns.txt
 file_size: 1273
 file_type: text/plain
 learning_resource_types:

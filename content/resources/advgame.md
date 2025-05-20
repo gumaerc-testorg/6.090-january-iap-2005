@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for homework 8 containing code of the game
   "Munchkin MIT".
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/c98a1eedc4adc7d8f0e39f5604be9d9a_advgame.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/c98a1eedc4adc7d8f0e39f5604be9d9a_advgame.scm
 file_size: 10747
 file_type: text/plain
 learning_resource_types:

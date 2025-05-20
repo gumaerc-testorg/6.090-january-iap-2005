@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions for the problems in homework 4.
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/bafac2c03543b646f9086518c6408376_hw4solns.txt
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/bafac2c03543b646f9086518c6408376_hw4solns.txt
 file_size: 2236
 file_type: text/plain
 learning_resource_types:
