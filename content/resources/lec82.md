@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 8.
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/b60e6c97dc4e307b4ef6017a56fe10b6_lec8.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/b60e6c97dc4e307b4ef6017a56fe10b6_lec8.scm
 file_size: 3410
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions for homework 6.
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/03bfb65ceba6d72e2cae0e1b51473f57_nimrodsolns.scm
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/03bfb65ceba6d72e2cae0e1b51473f57_nimrodsolns.scm
 file_size: 4204
 file_type: text/plain
 learning_resource_types:

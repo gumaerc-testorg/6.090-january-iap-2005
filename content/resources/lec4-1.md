@@ -2,7 +2,7 @@
 content_type: resource
 description: This TEX file contains macros that produce the look-and-feel of the lecture
   handouts.
-file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/35c342220f862bf0af452904eb16a50f_lec4.tex
+file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/35c342220f862bf0af452904eb16a50f_lec4.tex
 file_size: 2762
 file_type: text/plain
 learning_resource_types:
