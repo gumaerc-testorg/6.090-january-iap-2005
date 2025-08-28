@@ -2,7 +2,7 @@
 content_type: resource
 description: These notes outline the scheme of the lecture and provide the week's
   lab exercises.
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/6740263d322053df8f1b0cf218172d78_lec9.pdf
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/6740263d322053df8f1b0cf218172d78_lec9.pdf
 file_size: 166115
 file_type: application/pdf
 learning_resource_types:

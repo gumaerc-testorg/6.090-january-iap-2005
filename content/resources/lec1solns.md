@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions for the problems given in lecture 1.
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/55afea96986f97b45dd12eb1064e3fb8_lec1solns.txt
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/55afea96986f97b45dd12eb1064e3fb8_lec1solns.txt
 file_size: 1569
 file_type: text/plain
 learning_resource_types:
