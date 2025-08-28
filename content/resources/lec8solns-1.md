@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes the solutions for problem set 8.
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/debfab793f55ee7ed14204916c32f06a_lec8solns.txt
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/debfab793f55ee7ed14204916c32f06a_lec8solns.txt
 file_size: 2317
 file_type: text/plain
 learning_resource_types:

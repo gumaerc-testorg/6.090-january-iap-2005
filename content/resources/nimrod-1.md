@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for homework 6.
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/5bf2336424f54882e90de4914648564b_nimrod.scm
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/5bf2336424f54882e90de4914648564b_nimrod.scm
 file_size: 5262
 file_type: text/plain
 learning_resource_types:
