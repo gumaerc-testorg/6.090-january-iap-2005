@@ -21,7 +21,7 @@ leftnav:
   weight: 50
 - identifier: a361770f-74a5-81b1-25d8-23a9a1c629b2
   name: Tools
-  pageRef: /pages/tools/
+  pageRef: /pages/tools/tools
   weight: 60
 - identifier: 9f0ac8e6-d82e-dc24-7d52-e53bb226fcac
   name: Related Resources
