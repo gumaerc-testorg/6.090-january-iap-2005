@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Student notes from Lecture 7. This lecture covered the following topic:
   Sorting in ascending order.'
-file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/34eaf914dc74a329c7e6b597cb526dae_class7.pdf
+file: /ol-ocw-studio-app/courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/34eaf914dc74a329c7e6b597cb526dae_class7.pdf
 file_size: 78323
 file_type: application/pdf
 learning_resource_types:
