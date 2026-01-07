@@ -12,10 +12,10 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-The official {{% resource_link "8cc7b605-c738-45b7-bc14-0cfb1c0ca045" "Scheme Web site" %}}
+The official [Scheme Web site](http://www.swiss.ai.mit.edu/projects/scheme/)
 
-Online version of book used in {{% resource_link "5f136905-b053-477c-baaa-004f67c35206" "6.001" %}}: {{% resource_link "f261070a-cccf-48d5-aa73-51dc4935fe64" "SICP (PDF)" %}}
+Online version of book used in [6.001](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/): [SICP (PDF)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 
-Online version of another Scheme textbook: {{% resource_link "649bd142-f91f-456d-89a1-c484394ecbed" "How to Design Programs" %}}
+Online version of another Scheme textbook: [How to Design Programs](http://www.htdp.org/)
 
 The Edwin Cheat Sheet ({{% resource_link "4fb8aef5-b1fc-f7f3-2b7e-ee709201c3c3" "TXT" %}})
